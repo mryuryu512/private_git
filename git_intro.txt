@@ -1,3 +1,4 @@
 git intro test
 更新
 git add/ git commit
+git rm
